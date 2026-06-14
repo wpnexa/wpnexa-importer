@@ -1,0 +1,21 @@
+{
+  "name": "WPNexa Importer",
+  "slug": "wpnexa-importer",
+  "author": "<a href='https://wpnexa.com'>WPNexa</a>",
+  "author_profile": "https://wpnexa.com",
+  "version": "1.0.0",
+  "download_url": "https://github.com/wpnexa/wpnexa-importer/releases/download/v1.0.0/wpnexa-importer.zip",
+  "requires": "5.8",
+  "tested": "7.0",
+  "requires_php": "7.4",
+  "last_updated": "2026-06-14 11:48:00",
+  "sections": {
+    "description": "<p>Import WPNexa templates with just one click. For more information, please visit <a href="https://wpnexa.com/how-it-works" target="_blank">https://wpnexa.com/how-it-works</a>",
+    "installation": "<ol><li>Download the <strong>WPNexa Importer</strong> plugin ZIP file.</li><li>Go to your WordPress dashboard.</li><li>Navigate to <strong>Plugins > Add New</strong>.</li><li>Click <strong>Upload Plugin</strong>.</li><li>Select the <code>wpnexa-importer.zip</code> file and click <strong>Install Now</strong>.</li><li>After installation, click <strong>Activate Plugin</strong>.</li></ol>",
+    "changelog": "<h4>1.0.0 – 14 June 2026</h4><ul><li>Initial release.</li></ul>"
+  },
+  "banners": {
+    "low": "https://raw.githubusercontent.com/wpnexa/wpnexa-importer/main/banner-772x250.jpg",
+    "high": "https://raw.githubusercontent.com/wpnexa/wpnexa-importer/main/banner-1544x500.jpg"
+  }
+}
