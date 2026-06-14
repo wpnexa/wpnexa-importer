@@ -3,7 +3,7 @@
   "slug": "wpnexa-importer",
   "author": "<a href='https://wpnexa.com'>WPNexa</a>",
   "author_profile": "https://wpnexa.com",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "download_url": "https://github.com/wpnexa/wpnexa-importer/releases/download/v1.0.1/wpnexa-importer.zip",
   "requires": "5.8",
   "tested": "7.0",
